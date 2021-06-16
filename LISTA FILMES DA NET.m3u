@@ -3,7 +3,7 @@
 ###########FILMES LEGENDADO####################
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qq4IXzDSdg8VXF2H19Jud6jFnEy.jpg" group-title="FILMES LEGENDADO",INVOCAÇÃO DO MAL 3: A ORDEM DO DEMÔNIO
-https://gofilmes.me/play/tc/166999748899dbce218d58ac329fea4b.m3u8
+https://www.googleapis.com/drive/v3/files/1qF2YfUb8ESl6Y3_pnIyKZxYF2qAxooE4?alt=media&key=1qF2YfUb8ESl6Y3_pnIyKZxYF2qAxooE4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/5ghvx0Q5c57JoBNxFj4gSfXj6wK.jpg" group-title="FILMES LEGENDADO",XTREMO
 https://seriesonline.top/u/91998d2fbfe7b3b62c234f6478975401.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/zc2axS7hU4zAWdcPcNhpMPRlumX.jpg" group-title="FILMES LEGENDADO",INFILTRADO
@@ -35,6 +35,5 @@ https://seriesonline.top/u/bc1cb0e3ca00f14221cb294f47a319cb.m3u8
 https://seriesonline.top/u/2b287c6995b1c51d74fa619025f0d67d.m3u8
 
 ############## música #################  
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/zV5rpeTzUJ7QpA3NC4iidlwXssU.jpg" group-title="FILMES teste",teste
+#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="Música" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
 https://www.googleapis.com/drive/v3/files/1QRZKHSZPkeuU9pUwrfL2rDlE4Vekwrog?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
