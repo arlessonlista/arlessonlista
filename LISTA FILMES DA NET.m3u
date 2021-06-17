@@ -1,17 +1,18 @@
-#EXTM3U #EXTM3U 
+#EXTM3U 
 
-###########FILMES LEGENDADO####################
+###########FILMES LANÇAMENTO####################
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2W4ZvACURDyhiNnSIaFPHfNbny3.jpg" group-title="FILMES LEGENDADO",Skylines [ 2020 ]
-https://www.googleapis.com/drive/v3/files/1_5tMsiOInfGM6wR13Pvve0q6qLCLaEAy?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qq4IXzDSdg8VXF2H19Jud6jFnEy.jpg" group-title="FILMES LEGENDADO",INVOCAÇÃO DO MAL 3: A ORDEM DO DEMÔNIO
-https://www.googleapis.com/drive/v3/files/1qF2YfUb8ESl6Y3_pnIyKZxYF2qAxooE4?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/5ghvx0Q5c57JoBNxFj4gSfXj6wK.jpg" group-title="FILMES LEGENDADO",XTREMO
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qq4IXzDSdg8VXF2H19Jud6jFnEy.jpg" group-title="FILMES LANÇAMENTO",INVOCAÇÃO DO MAL 3: A ORDEM DO DEMÔNIO [ 2021 ]
+https://gofilmes.me/play/tc/166999748899dbce218d58ac329fea4b.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/5ghvx0Q5c57JoBNxFj4gSfXj6wK.jpg" group-title="FILMES LANÇAMENTO",XTREMO
 https://seriesonline.top/u/91998d2fbfe7b3b62c234f6478975401.m3u8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/zc2axS7hU4zAWdcPcNhpMPRlumX.jpg" group-title="FILMES LEGENDADO",INFILTRADO
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/zc2axS7hU4zAWdcPcNhpMPRlumX.jpg" group-title="FILMES LANÇAMENTO",INFILTRADO
 https://www4.megaupload.to/hls/4ib57vr4fai7bh3jepvqkp5lmcyzc6uhb62c2uhxu,gxex2zxkepida2hrxvq,6xex2zxkepd2fosq2ka,.urlset/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/1Ao5mk7UdAVWqOXmWZb4p1bR4J2.jpg" group-title="FILMES LEGENDADO",SHORTA
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/1Ao5mk7UdAVWqOXmWZb4p1bR4J2.jpg" group-title="FILMES LANÇAMENTO",SHORTA
 https://www6.megaupload.to/hls/4ib57ywrfei7bh3jepuako7zh2cagiwaecp2k6wpg,quexa5hkiw7vmkcug2q,iuexa5hkiw6tlhubpdq,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/znrtj0lFOgEa8bbAbck1QsvvQ6h.jpg" group-title="FILMES LANÇAMENTO",
+ROGAI POR NÓS
+https://gofilmes.me/play/tc/eb00a5d47d1200edf51ea25774a4f1c0.m3u8.m3u8
 
 ###########FILMES AÇÃO####################
 
@@ -38,3 +39,10 @@ https://s3.pandafiles.com:183/d/7u322vo626kwoyapukf6s2g2hb7ia5bmgkb7a2xt2sysi5pj
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/zV5rpeTzUJ7QpA3NC4iidlwXssU.jpg" group-title="FILMES FICÇÃO CIENTÍFICA",POWER RANGERS
 https://seriesonline.top/u/2b287c6995b1c51d74fa619025f0d67d.m3u8
+
+###########FILMES GOOGLE DRIVE####################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2W4ZvACURDyhiNnSIaFPHfNbny3.jpg" group-title="FILMES GOOGLE DRIVE",Skylines [ 2020 ]
+https://www.googleapis.com/drive/v3/files/1_5tMsiOInfGM6wR13Pvve0q6qLCLaEAy?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qq4IXzDSdg8VXF2H19Jud6jFnEy.jpg" group-title="FILMES GOOGLE DRIVE",INVOCAÇÃO DO MAL 3: A ORDEM DO DEMÔNIO [ 2021 ]
+https://www.googleapis.com/drive/v3/files/1qF2YfUb8ESl6Y3_pnIyKZxYF2qAxooE4?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
