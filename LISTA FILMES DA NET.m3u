@@ -1,6 +1,11 @@
 #EXTM3U
 #EXTINF:-1,www.AzManiac.com
 http://www.azmaniac.com
+
+############## FILMES LEGENDADO #######################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/8jBgDFFDYz8WHxiOBJ7GBiMM6Pe.jp" group-title="FILMES LEGENDADO",Invocação do Mal 3: A Ordem do Demônio
+https://docs.google.com/file/d/1_5tMsiOInfGM6wR13Pvve0q6qLCLaEAy/preview  
 #EXTINF:-1,Malevola 2- A Dona do Mal
 https://www.googleapis.com/drive/v3/files/1cCiL_XdgA9S61fYJk276P9i_SuDhinbR?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
 #EXTINF:-1,Tron - O Legado
