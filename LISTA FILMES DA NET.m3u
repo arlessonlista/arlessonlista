@@ -1,48 +1,43 @@
-#EXTM3U 
-#PLAYLISTV: pltv-logo="XXX LINK LOGO XXX" pltv-name="FILMES DA NET IPTV" pltv-description="A LISTA MAIS COMPLETA DA INTERNET" pltv-cover="XXX CAPA DA LISTA XXX" pltv-author="ARLESSON" pltv-site="XXX SITE CASO HOUVER XXX" pltv-email="ARLESSONBARBOSA@GMAIL.COM"
+#EXTM3U
+#EXTINF:-1,www.AzManiac.com
+http://www.azmaniac.com
+#EXTINF:-1,Malevola 2- A Dona do Mal
+https://www.googleapis.com/drive/v3/files/1cCiL_XdgA9S61fYJk276P9i_SuDhinbR?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,Tron - O Legado
+https://www.googleapis.com/drive/v3/files/14O2Uis3nu6EF7zUXpikTWs8z6Q7114Pv?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,O Auto Da Compadecida
+https://www.googleapis.com/drive/v3/files/1A9VAvZdevEV5rjxX24vpmyJ2SIqRBk-M?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,Resgate
+https://www.googleapis.com/drive/v3/files/139aXk5WiXaauJQn5MC5kPJh1rF4kVXz_?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,O Silencio Do Pantano
+https://www.googleapis.com/drive/v3/files/1ksn2QrgLWLREtxjRECSIRm_LadjuD_K3?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,Segredos Oficiais
+https://www.googleapis.com/drive/v3/files/1k_qqHTxIkI0ja_1FEdrbBJ3I0L8VKs6y?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,Corona Zombies
+https://www.googleapis.com/drive/v3/files/1OgqxACJrImKPVlY871sK4TT8hAabv_W7?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,Regressão
+https://www.googleapis.com/drive/v3/files/10TY8QdT0yE7g3nkOciqa4YXurWb3URd4?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,Orgulho E Preconceito
+https://www.googleapis.com/drive/v3/files/1sd9uWwqWmhS0h8Exo6eMsaH_eBRCRbUacw?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,Ip Man 4
+https://www.googleapis.com/drive/v3/files/1QDF9X7LYPxHSXrXo2UGK9st4ULrmFE4K?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,O Grito
+https://www.googleapis.com/drive/v3/files/172pcZGAKdHaqnwvArYk6-DtVZWBWC7ki?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,Os Deuses Devem Estar Loucos
+https://www.googleapis.com/drive/v3/files/1eKneKRxG17grazi3Sspq6HIVjM2ZCVAd?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,Os Outros
+https://www.googleapis.com/drive/v3/files/1ZMBwOk5lDWy9EC6LkYhc7-l4krWfRuK0?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,A Pura Verdade
+https://www.googleapis.com/drive/v3/files/1Biuyzu5Do8Oi_1REC4pKwfeaVem_5mgJ?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,Rápida Vingança
+https://www.googleapis.com/drive/v3/files/11JSvomL4alj9ntbNkxKDCUvz2fs7e9xj?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,A Estrada Sem Lei
+https://www.googleapis.com/drive/v3/files/1NUEr2nUxEstVqNIOfn-qR4UUR9iNgRQf?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,Sombra Lunar
+https://www.googleapis.com/drive/v3/files/107kc7cDtREA9hSw1AqgEFe4176MZ0ZCv?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,Minions Amarelo E O Novo Preto
+https://www.googleapis.com/drive/v3/files/1HjK3FMaS4LawOO3P0MU5V9TRiZG3BP0Z?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,Copias De Volta a Vida
+https://www.googleapis.com/drive/v3/files/10XjruIXE6WWuWs42vy06r2wwqBsXub47?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,
 
-
-###########FILMES LEGENDADO####################
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qq4IXzDSdg8VXF2H19Jud6jFnEy.jpg" group-title="FILMES LEGENDADO",INVOCAÇÃO DO MAL 3: A ORDEM DO DEMÔNIO [ 2021 ]
-https://gofilmes.me/play/tc/166999748899dbce218d58ac329fea4b.m3u8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/5ghvx0Q5c57JoBNxFj4gSfXj6wK.jpg" group-title="FILMES LEGENDADO",XTREMO [ 2021 ]
-https://seriesonline.top/u/2b287c6995b1c51d74fa619025f0d67d.m3u8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/zc2axS7hU4zAWdcPcNhpMPRlumX.jpg" group-title="FILMES LEGENDADO",INFILTRADO [ 2021 ]
-https://www4.megaupload.to/hls/4ib57vr4fai7bh3jepvqkp5lmcyzc6uhb62c2uhxu,gxex2zxkepida2hrxvq,6xex2zxkepd2fosq2ka,.urlset/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/1Ao5mk7UdAVWqOXmWZb4p1bR4J2.jpg" group-title="FILMES LANÇAMENTOS",SHORTA [ 2020 ]
-https://www6.megaupload.to/hls/4ib57ywrfei7bh3jepuako7zh2cagiwaecp2k6wpg,quexa5hkiw7vmkcug2q,iuexa5hkiw6tlhubpdq,.urlset/master.m3u8
-
-
-###########FILMES AÇÃO####################
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/5ghvx0Q5c57JoBNxFj4gSfXj6wK.jpg" group-title="FILMES AÇÃO",XTREMO [ 2021 ]
-https://s2.pandafiles.com:183/d/7i3z7eo726kwoyapt6f3ky6lgvw24r3ci6qjceyx5swgjrpb7j42raxkr3uezluqidgnnrxk/video.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/zV5rpeTzUJ7QpA3NC4iidlwXssU.jpg" group-title="FILMES AÇÃO",POWER RANGERS [ 2017 ]
-https://seriesonline.top/u/2b287c6995b1c51d74fa619025f0d67d.m3u8
-
-###########FILMES AVENTURA####################
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/zV5rpeTzUJ7QpA3NC4iidlwXssU.jpg" group-title="FILMES AVENTURA",POWER RANGERS [ 2017 ]
-https://seriesonline.top/u/2b287c6995b1c51d74fa619025f0d67d.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ukb8h3UgRJttGSHEgkB1VZI0mUG.jpg" group-title="FILMES AVENTURA",O BOM GIGANTE AMIGO
-https://seriesonline.top/u/bc1cb0e3ca00f14221cb294f47a319cb.m3u8
-
-###########FILMES DRAMA####################
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/bScM0AHRktwfMxmt7lP6IjV7KPR.jpg" group-title="FILMES DRAMA",DOR E GLÓRIA
-https://s3.pandafiles.com:183/d/7u322vo626kwoyapukf6s2g2hb7ia5bmgkb7a2xt2sysi5pj2yqv3vc5ujwserv7z2ymhrjf/video.mp4
-
-###########FILMES COMÉDIA####################
-
-###########FILMES FICÇÃO CIENTÍFICA####################
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/zV5rpeTzUJ7QpA3NC4iidlwXssU.jpg" group-title="FILMES FICÇÃO CIENTÍFICA",POWER RANGERS
-https://seriesonline.top/u/2b287c6995b1c51d74fa619025f0d67d.m3u8
-
-
-###########teste####################
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/zV5rpeTzUJ7QpA3NC4iidlwXssU.jpg" group-title="teste",POWER RANGERS
-https://docs.google.com/file/d/1YQJJbxykY9XQ2QOz5j6ZguoSL_iGx33w/preview  
