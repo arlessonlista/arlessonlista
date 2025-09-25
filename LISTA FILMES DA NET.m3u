@@ -1,43 +1,52 @@
 #EXTM3U 
 
-###########FILMES LEGENDADO####################
+###########FILMES LANÇAMENTOS####################
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qq4IXzDSdg8VXF2H19Jud6jFnEy.jpg" group-title="FILMES LEGENDADO",INVOCAÇÃO DO MAL 3: A ORDEM DO DEMÔNIO
-https://gofilmes.me/play/tc/166999748899dbce218d58ac329fea4b.m3u8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/5ghvx0Q5c57JoBNxFj4gSfXj6wK.jpg" group-title="FILMES LEGENDADO",XTREMO
-https://seriesonline.top/u/91998d2fbfe7b3b62c234f6478975401.m3u8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/zc2axS7hU4zAWdcPcNhpMPRlumX.jpg" group-title="FILMES LEGENDADO",INFILTRADO
-https://www4.megaupload.to/hls/4ib57vr4fai7bh3jepvqkp5lmcyzc6uhb62c2uhxu,gxex2zxkepida2hrxvq,6xex2zxkepd2fosq2ka,.urlset/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/1Ao5mk7UdAVWqOXmWZb4p1bR4J2.jpg" group-title="FILMES LEGENDADO",SHORTA
-https://www6.megaupload.to/hls/4ib57ywrfei7bh3jepuako7zh2cagiwaecp2k6wpg,quexa5hkiw7vmkcug2q,iuexa5hkiw6tlhubpdq,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w6lbMbwYFQPKarDTvVTWNSVBDXO.jpg" group-title="FILMES LANÇAMENTOS",A Perseguição
+https://watch.brplayer.cc/m3u8/10/6f39194d3df14d057e8ba796fcae6942/master.txt?s=1&id=31037&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ekyvMJ4SQMDRwTlLYktamGMbO4y.jpg" group-title="FILMES LANÇAMENTOS",O Mesmo Dia com Você
+https://watch.brplayer.cc/m3u8/10/ac8596485fcdd6ee2d708a4a6cb24291/master.txt?s=1&id=31039&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/1IyovHStVFP3Bt5JwGB0c4uST5J.jpg" group-title="FILMES LANÇAMENTOS",Ela Disse Talvez
+https://watch.brplayer.cc/m3u8/10/b6622e4ef1a8d811316fe50fd2975faf/master.txt?s=1&id=31194&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/NMVbasCl3PO2Uy1POFm2S4jojM.jpg" group-title="FILMES LANÇAMENTOS",Padel Nosso
+https://watch.brplayer.cc/m3u8/10/127449db06658be5e1bc1cd51bde8b78/master.txt?s=1&id=31176&cache=1
+
 
 ###########FILMES AÇÃO####################
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/5ghvx0Q5c57JoBNxFj4gSfXj6wK.jpg" group-title="FILMES AÇÃO",XTREMO
-https://seriesonline.top/u/aa0e60cff594f64358063924a5901a10.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/zV5rpeTzUJ7QpA3NC4iidlwXssU.jpg" group-title="FILMES AÇÃO",POWER RANGERS
-https://seriesonline.top/u/2b287c6995b1c51d74fa619025f0d67d.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w6lbMbwYFQPKarDTvVTWNSVBDXO.jpg" group-title="FILMES AÇÃO",A Perseguição
+https://watch.brplayer.cc/m3u8/10/6f39194d3df14d057e8ba796fcae6942/master.txt?s=1&id=31037&cache=1
+
+
 
 ###########FILMES AVENTURA####################
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/zV5rpeTzUJ7QpA3NC4iidlwXssU.jpg" group-title="FILMES AVENTURA",POWER RANGERS
-https://seriesonline.top/u/2b287c6995b1c51d74fa619025f0d67d.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ukb8h3UgRJttGSHEgkB1VZI0mUG.jpg" group-title="FILMES AVENTURA",O BOM GIGANTE AMIGO
-https://seriesonline.top/u/bc1cb0e3ca00f14221cb294f47a319cb.m3u8
+
 
 ###########FILMES DRAMA####################
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/bScM0AHRktwfMxmt7lP6IjV7KPR.jpg" group-title="FILMES DRAMA",DOR E GLÓRIA
-https://s3.pandafiles.com:183/d/7u322vo626kwoyapukf6s2g2hb7ia5bmgkb7a2xt2sysi5pj2yqv3vc5ujwserv7z2ymhrjf/video.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/1IyovHStVFP3Bt5JwGB0c4uST5J.jpg" group-title="FILMES DRAMA",Ela Disse Talvez
+https://watch.brplayer.cc/m3u8/10/b6622e4ef1a8d811316fe50fd2975faf/master.txt?s=1&id=31194&cache=1
 
 ###########FILMES COMÉDIA####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/NMVbasCl3PO2Uy1POFm2S4jojM.jpg" group-title="FILMES COMÉDIA",Padel Nosso
+https://watch.brplayer.cc/m3u8/10/127449db06658be5e1bc1cd51bde8b78/master.txt?s=1&id=31176&cache=1
+
+###########FILMES COMÉDIA ROMÂNTICA####################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ekyvMJ4SQMDRwTlLYktamGMbO4y.jpg" group-title="FILMES COMÉDIA ROMÂNTICA",O Mesmo Dia com Você
+https://watch.brplayer.cc/m3u8/10/ac8596485fcdd6ee2d708a4a6cb24291/master.txt?s=1&id=31039&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/1IyovHStVFP3Bt5JwGB0c4uST5J.jpg" group-title="FILMES COMÉDIA ROMÂNTICA",Ela Disse Talvez
+https://watch.brplayer.cc/m3u8/10/b6622e4ef1a8d811316fe50fd2975faf/master.txt?s=1&id=31194&cache=1
+
 ###########FILMES FICÇÃO CIENTÍFICA####################
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/zV5rpeTzUJ7QpA3NC4iidlwXssU.jpg" group-title="FILMES FICÇÃO CIENTÍFICA",POWER RANGERS
-https://seriesonline.top/u/2b287c6995b1c51d74fa619025f0d67d.m3u8
+
+###########FILMES SUSPENSE####################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w6lbMbwYFQPKarDTvVTWNSVBDXO.jpg" group-title="FILMES AÇÃO",A Perseguição
+https://watch.brplayer.cc/m3u8/10/6f39194d3df14d057e8ba796fcae6942/master.txt?s=1&id=31037&cache=1
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/zV5rpeTzUJ7QpA3NC4iidlwXssU.jpg" group-title="teste",POWER RANGERS
-https://docs.google.com/file/d/1YQJJbxykY9XQ2QOz5j6ZguoSL_iGx33w/preview  
 
