@@ -1,6 +1,6 @@
 #EXTM3U 
 
-###########FILMES LANÇAMENTOS####################
+###########LANÇAMENTOS####################
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w6lbMbwYFQPKarDTvVTWNSVBDXO.jpg" group-title="FILMES LANÇAMENTOS",A Perseguição
 https://watch.brplayer.cc/m3u8/10/6f39194d3df14d057e8ba796fcae6942/master.txt?s=1&id=31037&cache=1
@@ -10,28 +10,42 @@ https://watch.brplayer.cc/m3u8/10/ac8596485fcdd6ee2d708a4a6cb24291/master.txt?s=
 https://watch.brplayer.cc/m3u8/10/b6622e4ef1a8d811316fe50fd2975faf/master.txt?s=1&id=31194&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/NMVbasCl3PO2Uy1POFm2S4jojM.jpg" group-title="FILMES LANÇAMENTOS",Padel Nosso
 https://watch.brplayer.cc/m3u8/10/127449db06658be5e1bc1cd51bde8b78/master.txt?s=1&id=31176&cache=1
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg" group-title="FILMES LANÇAMENTOS",Elio
+https://download947.mediafire.com/jfhecr998kngI7QsGK5SPtCvOSiW99YfeSjQHEMxCBBdPWW0PJELoATvLzTuBwdFBCJuAhp1dbqa6jFAd1lgNQlE6slykyMj6k2Sry8IRAiPxh1Y8hvYzzkSebOLUW9mkav-uxlMrCsul2-JDb6KiM-G_0zS5CyKHqEnDwhrffNtqQ/7c9ztjfnarg2a6h/Elio.2025-HD.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ulRT1tSPzaPuySSHZgc5UGFMIMh.jpg" group-title="FILMES LANÇAMENTOS",Deu Match: A Rainha de Apps de Namoro
+https://watch.brplayer.cc/m3u8/10/6a6a73c9c5eecb746b0ab4c888939818/master.txt?s=1&id=31196&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/pxbfivItofaIek3iDtCcGtNu4Au.jpg" group-title="FILMES LANÇAMENTOS",Rust: A Lei do Oeste
+https://watch.brplayer.cc/m3u8/10/2c4a5c8ae91636f617d5a2e1b08ef868/master.txt?s=1&id=30787&cache=1
 
 ###########FILMES AÇÃO####################
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w6lbMbwYFQPKarDTvVTWNSVBDXO.jpg" group-title="FILMES AÇÃO",A Perseguição
 https://watch.brplayer.cc/m3u8/10/6f39194d3df14d057e8ba796fcae6942/master.txt?s=1&id=31037&cache=1
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/5vHHSGFZPrlHv9aRrmnIMKSc0G9.jpg" group-title="FILMES AÇÃO",Chacina de Sangue
+https://watch.brplayer.cc/m3u8/10/23950fd434a60d9c5b55ce6f09bd30a6/master.txt?s=1&id=30994&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wSaDo8CtKq85wu1cja7ACxbjk8j.jpg" group-title="FILMES AÇÃO",Flechas da Vingança
+https://watch.brplayer.cc/m3u8/10/8c711b2a61cccea42c643ce986dc203a/master.txt?s=1&id=31031&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/emnk3rHlqcKc5gr7YOuBwt0aoIB.jpg" group-title="FILMES AÇÃO",O Último Lutador
+https://watch.brplayer.cc/m3u8/10/d8af90655b20ecd682cd8536ae27cdb9/master.txt?s=1&id=31011&cache=1
 
 ###########FILMES AVENTURA####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg" group-title="FILMES AVENTURA",Elio
+https://download947.mediafire.com/jfhecr998kngI7QsGK5SPtCvOSiW99YfeSjQHEMxCBBdPWW0PJELoATvLzTuBwdFBCJuAhp1dbqa6jFAd1lgNQlE6slykyMj6k2Sry8IRAiPxh1Y8hvYzzkSebOLUW9mkav-uxlMrCsul2-JDb6KiM-G_0zS5CyKHqEnDwhrffNtqQ/7c9ztjfnarg2a6h/Elio.2025-HD.mp4
 
+###########FILMES INFANTIL####################
 
-###########FILMES DRAMA####################
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/1IyovHStVFP3Bt5JwGB0c4uST5J.jpg" group-title="FILMES DRAMA",Ela Disse Talvez
-https://watch.brplayer.cc/m3u8/10/b6622e4ef1a8d811316fe50fd2975faf/master.txt?s=1&id=31194&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg" group-title="FILMES INFANTIL",Elio
+https://download947.mediafire.com/jfhecr998kngI7QsGK5SPtCvOSiW99YfeSjQHEMxCBBdPWW0PJELoATvLzTuBwdFBCJuAhp1dbqa6jFAd1lgNQlE6slykyMj6k2Sry8IRAiPxh1Y8hvYzzkSebOLUW9mkav-uxlMrCsul2-JDb6KiM-G_0zS5CyKHqEnDwhrffNtqQ/7c9ztjfnarg2a6h/Elio.2025-HD.mp4
 
 ###########FILMES COMÉDIA####################
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/NMVbasCl3PO2Uy1POFm2S4jojM.jpg" group-title="FILMES COMÉDIA",Padel Nosso
 https://watch.brplayer.cc/m3u8/10/127449db06658be5e1bc1cd51bde8b78/master.txt?s=1&id=31176&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wIYFfsEv0xaRBmYr4ACzJZhDLwC.jpg" group-title="FILMES COMÉDIA",O Melhor Verão da Minha Vida
+https://watch.brplayer.cc/m3u8/10/d7524e44b42e52a688f6b5cc14bb3006/master.txt?s=1&id=31193&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/jdPcQsTEeOR7yfDawowwtS4gltp.jpg" group-title="FILMES COMÉDIA",O Espírito do Natal
+https://watch.brplayer.cc/m3u8/10/1ff4dc549f35ef8cbdcb51f0dc4972a8/master.txt?s=1&id=31032&cache=1
 
 ###########FILMES COMÉDIA ROMÂNTICA####################
 
@@ -40,13 +54,41 @@ https://watch.brplayer.cc/m3u8/10/ac8596485fcdd6ee2d708a4a6cb24291/master.txt?s=
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/1IyovHStVFP3Bt5JwGB0c4uST5J.jpg" group-title="FILMES COMÉDIA ROMÂNTICA",Ela Disse Talvez
 https://watch.brplayer.cc/m3u8/10/b6622e4ef1a8d811316fe50fd2975faf/master.txt?s=1&id=31194&cache=1
 
-###########FILMES FICÇÃO CIENTÍFICA####################
+###########FILMES DRAMA####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ulRT1tSPzaPuySSHZgc5UGFMIMh.jpg" group-title="FILMES DRAMA",Deu Match: A Rainha de Apps de Namoro
+https://watch.brplayer.cc/m3u8/10/6a6a73c9c5eecb746b0ab4c888939818/master.txt?s=1&id=31196&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/qvjYnvt5bd6j8FeqwEbftLTosvA.jpg" group-title="FILMES DRAMA",Bem-Vindo ao Crime
+https://watch.brplayer.cc/m3u8/10/16a153a27394122922a55fb102f602e3/master.txt?s=1&id=31195&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/7plzDbtgpmUCQXVF4fyoW3u82qj.jpg" group-title="FILMES DRAMA",É Preciso Acreditar
+https://watch.brplayer.cc/m3u8/10/83207fa06b72203b37ffc59ed7c41a30/master.txt?s=1&id=31197&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/aHLSB5y42sPjbZhMabG0NVkWtUH.jpg" group-title="FILMES DRAMA",Acompanhante Fatal
+https://watch.brplayer.cc/m3u8/10/66f09de47d7af86fdb784e3e7f68640b/master.txt?s=1&id=31036&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ygddj46XCGU2QUkIRSQw2EcdxYZ.jpg" group-title="FILMES DRAMA",A Mãe do Meu Filho
+https://watch.brplayer.cc/m3u8/10/4f0130868fe171b5c2bf66d416a06ce2/master.txt?s=1&id=31034&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/mpApQFCpHDjUUKYeA8J6Jb2kEJ5.jpg" group-title="FILMES DRAMA",O Corpo que Habito
+https://watch.brplayer.cc/m3u8/10/52238db3e51471b5f923a3481975f65d/master.txt?s=1&id=31035&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/nXqZvvgIEbZM3gQBa4jLcNnLWmx.jpg" group-title="FILMES DRAMA",Como Descartar um Corpo
+https://watch.brplayer.cc/m3u8/10/f40ef5fc5d2ac8911c6a5362f89a06ab/master.txt?s=1&id=31028&cache=1
 
 ###########FILMES SUSPENSE####################
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w6lbMbwYFQPKarDTvVTWNSVBDXO.jpg" group-title="FILMES AÇÃO",A Perseguição
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w6lbMbwYFQPKarDTvVTWNSVBDXO.jpg" group-title="FILMES SUSPENSE",A Perseguição
 https://watch.brplayer.cc/m3u8/10/6f39194d3df14d057e8ba796fcae6942/master.txt?s=1&id=31037&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/5vHHSGFZPrlHv9aRrmnIMKSc0G9.jpg" group-title="FILMES SUSPENSE",Chacina de Sangue
+https://watch.brplayer.cc/m3u8/10/23950fd434a60d9c5b55ce6f09bd30a6/master.txt?s=1&id=30994&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/qvjYnvt5bd6j8FeqwEbftLTosvA.jpg" group-title="FILMES SUSPENSE",Bem-Vindo ao Crime
+https://watch.brplayer.cc/m3u8/10/16a153a27394122922a55fb102f602e3/master.txt?s=1&id=31195&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/aHLSB5y42sPjbZhMabG0NVkWtUH.jpg" group-title="FILMES SUSPENSE",Acompanhante Fatal
+https://watch.brplayer.cc/m3u8/10/66f09de47d7af86fdb784e3e7f68640b/master.txt?s=1&id=31036&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/nXqZvvgIEbZM3gQBa4jLcNnLWmx.jpg" group-title="FILMES SUSPENSE",Como Descartar um Corpo
+https://watch.brplayer.cc/m3u8/10/f40ef5fc5d2ac8911c6a5362f89a06ab/master.txt?s=1&id=31028&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wSaDo8CtKq85wu1cja7ACxbjk8j.jpg" group-title="FILMES SUSPENSE",Flechas da Vingança
+https://watch.brplayer.cc/m3u8/10/8c711b2a61cccea42c643ce986dc203a/master.txt?s=1&id=31031&cache=1
 
+###########FILMES FAROESTE####################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/pxbfivItofaIek3iDtCcGtNu4Au.jpg" group-title="FILMES FAROESTE",Rust: A Lei do Oeste
+https://watch.brplayer.cc/m3u8/10/2c4a5c8ae91636f617d5a2e1b08ef868/master.txt?s=1&id=30787&cache=1
 
 
