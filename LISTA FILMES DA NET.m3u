@@ -1,6 +1,12 @@
 #EXTM3U 
 ###########LANÇAMENTOS####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fQv7neaPTFjBzvKkysAA6FXDIz7.jpg" group-title="LANÇAMENTOS",O Ritual
+https://watch.brplayer.cc/m3u8/10/9dbd49ba9d0391088bde2b8090110ec8/master.txt?s=1&id=31918&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/daIpqWRXqKuGuDWLCno8HVzqVLK.jpg" group-title="LANÇAMENTOS",A Hora do Mal
+https://watch.brplayer.cc/m3u8/10/7fbaa471e85a13aada114a4b1065215a/master.txt?s=1&id=30637&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/xPc7tVbii1vcWCegbkUCi9otWVO.jpg" group-title="LANÇAMENTOS",Faça Ela Voltar
+https://watch.brplayer.cc/m3u8/10/9a3f34a2d6ad7dcd61c116f52e398d81/master.txt?s=1&id=30669&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w6lbMbwYFQPKarDTvVTWNSVBDXO.jpg" group-title="LANÇAMENTOS",A Perseguição
 https://watch.brplayer.cc/m3u8/10/6f39194d3df14d057e8ba796fcae6942/master.txt?s=1&id=31037&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ekyvMJ4SQMDRwTlLYktamGMbO4y.jpg" group-title="LANÇAMENTOS",O Mesmo Dia com Você
