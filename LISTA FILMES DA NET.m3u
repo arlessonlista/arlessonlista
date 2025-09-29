@@ -79,6 +79,8 @@ https://watch.brplayer.cc/m3u8/10/127449db06658be5e1bc1cd51bde8b78/master.txt?s=
 https://watch.brplayer.cc/m3u8/10/d7524e44b42e52a688f6b5cc14bb3006/master.txt?s=1&id=31193&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/jdPcQsTEeOR7yfDawowwtS4gltp.jpg" group-title="COMÉDIA",O Espírito do Natal
 https://watch.brplayer.cc/m3u8/10/1ff4dc549f35ef8cbdcb51f0dc4972a8/master.txt?s=1&id=31032&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/AlPyPhknXNovD7YNAjgGS21a2KV.jpg" group-title="COMÉDIA",O Amor Vai Te Encontrar
+https://watch.brplayer.cc/m3u8/10/344740a5da60a3e8839958496f4644e7/master.txt?s=1&id=31978&cache=1
 
 ###########FILMES COMÉDIA ROMÂNTICA####################
 
@@ -103,6 +105,8 @@ https://watch.brplayer.cc/m3u8/10/4f0130868fe171b5c2bf66d416a06ce2/master.txt?s=
 https://watch.brplayer.cc/m3u8/10/52238db3e51471b5f923a3481975f65d/master.txt?s=1&id=31035&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/nXqZvvgIEbZM3gQBa4jLcNnLWmx.jpg" group-title="DRAMA",Como Descartar um Corpo
 https://watch.brplayer.cc/m3u8/10/f40ef5fc5d2ac8911c6a5362f89a06ab/master.txt?s=1&id=31028&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/AlPyPhknXNovD7YNAjgGS21a2KV.jpg" group-title="DRAMA",O Amor Vai Te Encontrar
+https://watch.brplayer.cc/m3u8/10/344740a5da60a3e8839958496f4644e7/master.txt?s=1&id=31978&cache=1
 
 ###########FILMES SUSPENSE####################
 
@@ -118,11 +122,15 @@ https://watch.brplayer.cc/m3u8/10/66f09de47d7af86fdb784e3e7f68640b/master.txt?s=
 https://watch.brplayer.cc/m3u8/10/f40ef5fc5d2ac8911c6a5362f89a06ab/master.txt?s=1&id=31028&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wSaDo8CtKq85wu1cja7ACxbjk8j.jpg" group-title="SUSPENSE",Flechas da Vingança
 https://watch.brplayer.cc/m3u8/10/8c711b2a61cccea42c643ce986dc203a/master.txt?s=1&id=31031&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wSqbUK2zI1Q9tVPpKKNVXbdQLOp.jpg" group-title="SUSPENSE",Tenha Medo
+https://watch.brplayer.cc/m3u8/10/729fbaf01455353285fd43871be6ebb7/master.txt?s=1&id=31610&cache=1
+
+###########FILMES TERROR####################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wSqbUK2zI1Q9tVPpKKNVXbdQLOp.jpg" group-title="TERROR",Tenha Medo
+https://watch.brplayer.cc/m3u8/10/729fbaf01455353285fd43871be6ebb7/master.txt?s=1&id=31610&cache=1
 
 ###########FILMES FAROESTE####################
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/pxbfivItofaIek3iDtCcGtNu4Au.jpg" group-title="FAROESTE",Rust: A Lei do Oeste
 https://watch.brplayer.cc/m3u8/10/2c4a5c8ae91636f617d5a2e1b08ef868/master.txt?s=1&id=30787&cache=1
-
-
-Clique para trocar para o texto original.Clique para traduzir a página.ConfiguraçõesTradução de PDF
