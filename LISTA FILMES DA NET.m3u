@@ -1,2 +1,23 @@
-#EXTINF:-1 tvg-id="LANÇAMENTOS" tvg-name="O Ritual" tvg-logo="https://image.tmdb.org/t/p/w342/fQv7neaPTFjBzvKkysAA6FXDIz7.jpg" group-title="LANÇAMENTOS",O Ritual
-https://watch.brplayer.cc/stream/bTN1OC8xMC85ZGJkNDliYTlkMDM5MTA4OGJkZTJiODA5MDExMGVjOC83MjBwLzcyMHAubTN1OD9pZD0zMTkxOA==
+#EXTM3U 
+###########NOSSOS FILMES####################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fQv7neaPTFjBzvKkysAA6FXDIz7.jpg" group-title="NOSSOS FILMES",O Ritual
+https://watch.brplayer.cc/m3u8/10/9dbd49ba9d0391088bde2b8090110ec8/master.txt?s=1&id=31918&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/daIpqWRXqKuGuDWLCno8HVzqVLK.jpg" group-title="NOSSOS FILMES",A Hora do Mal
+https://watch.brplayer.cc/m3u8/10/7fbaa471e85a13aada114a4b1065215a/master.txt?s=1&id=30637&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/xPc7tVbii1vcWCegbkUCi9otWVO.jpg" group-title="NOSSOS FILMES",Faça Ela Voltar
+https://watch.brplayer.cc/m3u8/10/9a3f34a2d6ad7dcd61c116f52e398d81/master.txt?s=1&id=30669&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w6lbMbwYFQPKarDTvVTWNSVBDXO.jpg" group-title="NOSSOS FILMES",A Perseguição
+https://watch.brplayer.cc/m3u8/10/6f39194d3df14d057e8ba796fcae6942/master.txt?s=1&id=31037&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ekyvMJ4SQMDRwTlLYktamGMbO4y.jpg" group-title="NOSSOS FILMES",O Mesmo Dia com Você
+https://watch.brplayer.cc/m3u8/10/ac8596485fcdd6ee2d708a4a6cb24291/master.txt?s=1&id=31039&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/1IyovHStVFP3Bt5JwGB0c4uST5J.jpg" group-title="NOSSOS FILMES",Ela Disse Talvez
+https://watch.brplayer.cc/m3u8/10/b6622e4ef1a8d811316fe50fd2975faf/master.txt?s=1&id=31194&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/NMVbasCl3PO2Uy1POFm2S4jojM.jpg" group-title="NOSSOS FILMES",Padel Nosso
+https://watch.brplayer.cc/m3u8/10/127449db06658be5e1bc1cd51bde8b78/master.txt?s=1&id=31176&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg" group-title="NOSSOS FILMES",Elio
+https://download947.mediafire.com/jfhecr998kngI7QsGK5SPtCvOSiW99YfeSjQHEMxCBBdPWW0PJELoATvLzTuBwdFBCJuAhp1dbqa6jFAd1lgNQlE6slykyMj6k2Sry8IRAiPxh1Y8hvYzzkSebOLUW9mkav-uxlMrCsul2-JDb6KiM-G_0zS5CyKHqEnDwhrffNtqQ/7c9ztjfnarg2a6h/Elio.2025-HD.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ulRT1tSPzaPuySSHZgc5UGFMIMh.jpg" group-title="NOSSOS FILMES",Deu Match: A Rainha de Apps de Namoro
+https://watch.brplayer.cc/m3u8/10/6a6a73c9c5eecb746b0ab4c888939818/master.txt?s=1&id=31196&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/pxbfivItofaIek3iDtCcGtNu4Au.jpg" group-title="NOSSOS FILMES",Rust: A Lei do Oeste
+https://watch.brplayer.cc/m3u8/10/2c4a5c8ae91636f617d5a2e1b08ef868/master.txt?s=1&id=30787&cache=1
