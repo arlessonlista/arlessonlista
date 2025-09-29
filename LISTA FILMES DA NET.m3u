@@ -1,6 +1,8 @@
 #EXTM3U 
 ###########LANÇAMENTOS####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/kn00Rt1ImUN6D1bpciPX8qtnHH3.jpg" group-title="LANÇAMENTOS",WWE Wrestlepalooza
+https://watch.brplayer.cc/m3u8/10/a306a13c6c1ee387390fdc96c7bdca66/master.txt?s=1&id=31802&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fQv7neaPTFjBzvKkysAA6FXDIz7.jpg" group-title="LANÇAMENTOS",O Ritual
 https://watch.brplayer.cc/m3u8/10/9dbd49ba9d0391088bde2b8090110ec8/master.txt?s=1&id=31918&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/daIpqWRXqKuGuDWLCno8HVzqVLK.jpg" group-title="LANÇAMENTOS",A Hora do Mal
@@ -24,6 +26,8 @@ https://watch.brplayer.cc/m3u8/10/2c4a5c8ae91636f617d5a2e1b08ef868/master.txt?s=
 
 ###########FILMES AÇÃO####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/kn00Rt1ImUN6D1bpciPX8qtnHH3.jpg" group-title="AÇÃO",WWE Wrestlepalooza
+https://watch.brplayer.cc/m3u8/10/a306a13c6c1ee387390fdc96c7bdca66/master.txt?s=1&id=31802&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w6lbMbwYFQPKarDTvVTWNSVBDXO.jpg" group-title="AÇÃO",A Perseguição
 https://watch.brplayer.cc/m3u8/10/6f39194d3df14d057e8ba796fcae6942/master.txt?s=1&id=31037&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/5vHHSGFZPrlHv9aRrmnIMKSc0G9.jpg" group-title="AÇÃO" ,Chacina de Sangue
@@ -73,6 +77,10 @@ https://download947.mediafire.com/jfhecr998kngI7QsGK5SPtCvOSiW99YfeSjQHEMxCBBdPW
 
 ###########FILMES COMÉDIA####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/qca6vdh8Rg2Kc9kFTcSeEpAgWlI.jpg" group-title="COMÉDIA",Sem Prévio Aviso
+https://watch.brplayer.cc/m3u8/10/a8de839ca3b50ef2eac03640ccf56afd/master.txt?s=1&id=31914&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/vxbxmUtuoVeIH4teo1EuQl9Gw4z.jpg" group-title="COMÉDIA",O Entregador da Noite
+https://watch.brplayer.cc/m3u8/10/ff40b691c06418347e31890b6fc1e29f/master.txt?s=1&id=31881&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/NMVbasCl3PO2Uy1POFm2S4jojM.jpg" group-title="COMÉDIA",Padel Nosso
 https://watch.brplayer.cc/m3u8/10/127449db06658be5e1bc1cd51bde8b78/master.txt?s=1&id=31176&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wIYFfsEv0xaRBmYr4ACzJZhDLwC.jpg" group-title="COMÉDIA",O Melhor Verão da Minha Vida
@@ -91,6 +99,16 @@ https://watch.brplayer.cc/m3u8/10/b6622e4ef1a8d811316fe50fd2975faf/master.txt?s=
 
 ###########FILMES DRAMA####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/qca6vdh8Rg2Kc9kFTcSeEpAgWlI.jpg" group-title="DRAMA",Sem Prévio Aviso
+https://watch.brplayer.cc/m3u8/10/a8de839ca3b50ef2eac03640ccf56afd/master.txt?s=1&id=31914&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/6XqpAsJ0gMo1IUwBe16Zg5XOsLS.jpg" group-title="DRAMA",Cordel do Amor Sem Fim
+https://watch.brplayer.cc/m3u8/10/6107f0a7614917c3c78a74ebe45f00ca/master.txt?s=1&id=31906&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/11s2ABVfKn4XX1Dq4d4kw3mNV6Y.jpg" group-title="DRAMA",Um Tiro no Escuro
+https://watch.brplayer.cc/m3u8/10/a100e66d10d9f367ba4dcc5917657159/master.txt?s=1&id=31883&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/vxbxmUtuoVeIH4teo1EuQl9Gw4z.jpg" group-title="DRAMA",O Entregador da Noite
+https://watch.brplayer.cc/m3u8/10/ff40b691c06418347e31890b6fc1e29f/master.txt?s=1&id=31881&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tfsEQnB1fAXb7a1fcKQFg6NCeF9.jpg" group-title="DRAMA",Entre os Vivos
+https://watch.brplayer.cc/m3u8/10/0f09698017af107026ad0b0be011fa73/master.txt?s=1&id=31655&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ulRT1tSPzaPuySSHZgc5UGFMIMh.jpg" group-title="DRAMA",Deu Match: A Rainha de Apps de Namoro
 https://watch.brplayer.cc/m3u8/10/6a6a73c9c5eecb746b0ab4c888939818/master.txt?s=1&id=31196&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/qvjYnvt5bd6j8FeqwEbftLTosvA.jpg" group-title="DRAMA",Bem-Vindo ao Crime
@@ -110,6 +128,10 @@ https://watch.brplayer.cc/m3u8/10/344740a5da60a3e8839958496f4644e7/master.txt?s=
 
 ###########FILMES SUSPENSE####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/62gWK1YwNoON9nSAoGzi7lHmWY8.jpg" group-title="SUSPENSE",De Dentro da Escuridão
+https://watch.brplayer.cc/m3u8/10/2f2025ae2e57e71843298d80bed5cfde/master.txt?s=1&id=31884&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/vxbxmUtuoVeIH4teo1EuQl9Gw4z.jpg" group-title="SUSPENSE",O Entregador da Noite
+https://watch.brplayer.cc/m3u8/10/ff40b691c06418347e31890b6fc1e29f/master.txt?s=1&id=31881&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w6lbMbwYFQPKarDTvVTWNSVBDXO.jpg" group-title="SUSPENSE",A Perseguição
 https://watch.brplayer.cc/m3u8/10/6f39194d3df14d057e8ba796fcae6942/master.txt?s=1&id=31037&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/5vHHSGFZPrlHv9aRrmnIMKSc0G9.jpg" group-title="SUSPENSE",Chacina de Sangue
@@ -127,8 +149,16 @@ https://watch.brplayer.cc/m3u8/10/729fbaf01455353285fd43871be6ebb7/master.txt?s=
 
 ###########FILMES TERROR####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/dsXqBhf0pYlrnFshx63mXftQ9Uf.jpg" group-title="TERROR",Perigo das Profundezas
+https://watch.brplayer.cc/m3u8/10/6b1e4ccdd469e7c0f4411a468b7910f7/master.txt?s=1&id=31885&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/11s2ABVfKn4XX1Dq4d4kw3mNV6Y.jpg" group-title="TERROR",Um Tiro no Escuro
+https://watch.brplayer.cc/m3u8/10/a100e66d10d9f367ba4dcc5917657159/master.txt?s=1&id=31883&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/62gWK1YwNoON9nSAoGzi7lHmWY8.jpg" group-title="TERROR",De Dentro da Escuridão
+https://watch.brplayer.cc/m3u8/10/2f2025ae2e57e71843298d80bed5cfde/master.txt?s=1&id=31884&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wSqbUK2zI1Q9tVPpKKNVXbdQLOp.jpg" group-title="TERROR",Tenha Medo
 https://watch.brplayer.cc/m3u8/10/729fbaf01455353285fd43871be6ebb7/master.txt?s=1&id=31610&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tfsEQnB1fAXb7a1fcKQFg6NCeF9.jpg" group-title="TERROR",Entre os Vivos
+https://watch.brplayer.cc/m3u8/10/0f09698017af107026ad0b0be011fa73/master.txt?s=1&id=31655&cache=1
 
 ###########FILMES FAROESTE####################
 
