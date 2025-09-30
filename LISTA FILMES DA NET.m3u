@@ -1,6 +1,10 @@
 #EXTM3U 
 ###########LANÇAMENTOS####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/vSYt5gzGwC1ZoRW5Ppegt4HGeEx.jpg" group-title="LANÇAMENTOS",Mantis - 2025 - Ação - Suspense
+https://tmstr4.shadowlandschronicles.com/pl/H4sIAAAAAAAAAxXNy3KCMBhA4VfKBdR0V.ViU42ThISSXeC3xhLRscyIPH3t7qy.QzAsF8gjWKBjy1ZsyYAxsvomJPELlq7eBC6.OhqmjmDvI98djJydtb3oG9LM4dYQflHDTYIBJ0xae2IrW_K6yq3qcDM3WGhRne6HrHiASRD0Ygvm4w6DTI9G3LVm6jgYsi.dsNbeAOeToHzzyoOLcpaIizovqOkLA4VKdMnOsGGfHXZ7t3VOY5hknWBRqtjZeAW6TmF.nxoaRjiPuX.Ov448nhYhIoe4gSzqdntFFTphiU.4iuu4o_G8wyFTKIwvY9Am_PjCJtYG6mqmnJFPn1nZZnHck5S3F_7_W7sZsT.EvIDVQQEAAA--/master.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/6ObRyIQHJAY2X575hLVgKsnNlar.jpg" group-title="LANÇAMENTOS",Anônimo 2 - 2025 - Ação - Suspense
+https://watch.brplayer.cc/m3u8/10/28906041af66e9058de9fde01d54540d/master.txt?s=1&id=31380&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/qca6vdh8Rg2Kc9kFTcSeEpAgWlI.jpg" group-title="LANÇAMENTOS",Sem Prévio Aviso - 2025 - Comedia -Drama
 https://watch.brplayer.cc/m3u8/10/a8de839ca3b50ef2eac03640ccf56afd/master.txt?s=1&id=31914&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/hBH50Mkcrc4m8x73CovLmY7vBx1.jpg" group-title="LANÇAMENTOS",Thunderbolts - 2025 - Ação - Aventura - Ficção
@@ -38,6 +42,8 @@ https://watch.brplayer.cc/m3u8/10/2c4a5c8ae91636f617d5a2e1b08ef868/master.txt?s=
 
 ###########FILMES AÇÃO####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/6ObRyIQHJAY2X575hLVgKsnNlar.jpg" group-title="AÇÃO",Anônimo 2 - 2025 - Ação - Suspense
+https://watch.brplayer.cc/m3u8/10/28906041af66e9058de9fde01d54540d/master.txt?s=1&id=31380&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/kn00Rt1ImUN6D1bpciPX8qtnHH3.jpg" group-title="AÇÃO",WWE Wrestlepalooza - 2025 - Ação
 https://watch.brplayer.cc/m3u8/10/a306a13c6c1ee387390fdc96c7bdca66/master.txt?s=1&id=31802&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w6lbMbwYFQPKarDTvVTWNSVBDXO.jpg" group-title="AÇÃO",A Perseguição - 2025 - Ação - Suspense
@@ -112,6 +118,8 @@ https://watch.brplayer.cc/m3u8/10/b6622e4ef1a8d811316fe50fd2975faf/master.txt?s=
 
 ###########FILMES DRAMA####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fQv7neaPTFjBzvKkysAA6FXDIz7.jpg" group-title="DRAMA",O Ritual - 2025 - Drama - Terror - Suspense
+https://watch.brplayer.cc/m3u8/10/9dbd49ba9d0391088bde2b8090110ec8/master.txt?s=1&id=31918&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/buiy7xS3Q78ii3HWFKL2GIoMu4N.jpg" group-title="DRAMA",Shadow Force: Sentença de Morte - 2025 - Ação - Drama - Suspense
 https://watch.brplayer.cc/m3u8/10/8afc0327c6d499ed20c99d2a2502c7b9/master.txt?s=1&id=29317&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/sPTeizmI8p40oEuvbIc2B3H5mg6.jpg" group-title="DRAMA",Missão Resgate: Vingança - 2025 - Ação - Drama - Suspense
@@ -145,6 +153,10 @@ https://watch.brplayer.cc/m3u8/10/344740a5da60a3e8839958496f4644e7/master.txt?s=
 
 ###########FILMES SUSPENSE####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fQv7neaPTFjBzvKkysAA6FXDIz7.jpg" group-title="SUSPENSE",O Ritual - 2025 - Drama - Terror - Suspense
+https://watch.brplayer.cc/m3u8/10/9dbd49ba9d0391088bde2b8090110ec8/master.txt?s=1&id=31918&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/6ObRyIQHJAY2X575hLVgKsnNlar.jpg" group-title="SUSPENSE",Anônimo 2 - 2025 - Ação - Suspense
+https://watch.brplayer.cc/m3u8/10/28906041af66e9058de9fde01d54540d/master.txt?s=1&id=31380&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wmh23jJy0nbVSPTrbLufLz1Eh9G.jpg" group-title="SUSPENSE",Velocidade Total - 2024 - Ação - Policial - Suspense
 https://watch.brplayer.cc/m3u8/10/5e54918976bb01299a2eca9319c229d4/master.txt?s=1&id=29741&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tR72QtCpWFyATitQhY4EmAgfEt4.jpg" group-title="SUSPENSE",Linha de Fogo - 2025 - Ação - Suspense
