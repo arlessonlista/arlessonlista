@@ -1,5 +1,25 @@
 #EXTM3U 
 ###########NOSSOS FILMES####################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/vSYt5gzGwC1ZoRW5Ppegt4HGeEx.jpg" group-title="NOSSOS FILMES",Mantis - 2025 - Ação - Suspense
+https://watch.brplayer.cc/m3u8/10/2cd019e887a1ef10c8c8b3ccd92f2f9b/master.txt?s=1&id=31936&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/bLqPpqNoKbNbXysIeft1tLIl6KB.jpg" group-title="NOSSOS FILMES",French Lover - 2025 - Comédia Romantica
+https://watch.brplayer.cc/m3u8/10/0aa886105b1ba7a8db845491110a5bb7/master.txt?s=1&id=31939&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/6VBNDxrbWEJcm66X3fCFTi8GVQW.jpg" group-title="NOSSOS FILMES",Rute e Boaz - 2025 - Drama - Romance
+https://watch.brplayer.cc/m3u8/10/c3a93eac6e6d4ec470b1f7f5dc024e20/master.txt?s=1&id=31937&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/8LFBJA9nyjXOC1ZgcYV39gZ07Hj.jpg" group-title="NOSSOS FILMES",Por Inteiro - 2025 - Drama - Romance
+https://watch.brplayer.cc/m3u8/10/0a16224c296f72af9037875a027f94a6/master.txt?s=1&id=31921&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2l1om8E5zoHCm9cjLR1Zyr1UHUj.jpg" group-title="NOSSOS FILMES",Gatilheiro - 2025 - Ação - Suspense
+https://watch.brplayer.cc/m3u8/10/0c6d3f65c999673f0cc19ecc99e81f20/master.txt?s=1&id=31938&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tYo16ZdBCBS2A7xhsfr5cH0fiyt.jpg" group-title="NOSSOS FILMES",Electra - 2024 - Drama - Suspense
+https://watch.brplayer.cc/m3u8/10/dd363b260a3b26e9ebdc93193730e961/master.txt?s=1&id=31979&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fjiylNgOcYyqEo71OSUPWmiaPew.jpg" group-title="NOSSOS FILMES",Doce Vida - 2024 - Comédia Romantica
+https://watch.brplayer.cc/m3u8/10/41fa78d83871255df97eca42c516d7a6/master.txt?s=1&id=31973&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/eDDyDSdapjJt5A9A7ybaCbMp4P0.jpg" group-title="NOSSOS FILMES",Traumas Aterrorizantes - 2022 - Drama - Terror - Suspense
+https://watch.brplayer.cc/m3u8/10/48910e2dfc7fde82288b4fe968159641/master.txt?s=1&id=31974&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/lGBkMNBe4BCCmSe9Vt7CLWcMwQP.jpg" group-title="NOSSOS FILMES",Até o Último Obstáculo - 2023 - Drama - Guerra - Suspense
+https://watch.brplayer.cc/m3u8/10/cc004e653cc78176c82cba30329b1c68/master.txt?s=1&id=31980&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/zmLsZKzk0ttO4C7D365SC7zZbjy.jpg" group-title="NOSSOS FILMES",As Sete Faces de Jane - 2023 - Drama
+https://watch.brplayer.cc/m3u8/10/9c41f284776f06b72aab705c9fdcde86/master.txt?s=1&id=31976&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/6ObRyIQHJAY2X575hLVgKsnNlar.jpg" group-title="NOSSOS FILMES",Anônimo 2 - 2025 - Ação - Suspense
 https://watch.brplayer.cc/m3u8/10/28906041af66e9058de9fde01d54540d/master.txt?s=1&id=31380&cache=m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/qca6vdh8Rg2Kc9kFTcSeEpAgWlI.jpg" group-title="NOSSOS FILMES",Sem Prévio Aviso - 2025 - Comedia -Drama
@@ -88,7 +108,3 @@ https://watch.brplayer.cc/m3u8/10/2f2025ae2e57e71843298d80bed5cfde/master.txt?s=
 https://watch.brplayer.cc/m3u8/10/729fbaf01455353285fd43871be6ebb7/master.txt?s=1&id=31610&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/dsXqBhf0pYlrnFshx63mXftQ9Uf.jpg" group-title="NOSSOS FILMES",Perigo das Profundezas - 2024 - Terror
 https://watch.brplayer.cc/m3u8/10/6b1e4ccdd469e7c0f4411a468b7910f7/master.txt?s=1&id=31885&cache=1
-
-
-
-
