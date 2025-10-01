@@ -1,5 +1,17 @@
 #EXTM3U 
 ###########NOSSOS FILMES####################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wq2LfaMr486SZoBOmQiVtgr77XE.jpg" group-title="NOSSOS FILMES",Mesa Maldita - 2023 - Comedia - Drama - Terror
+https://watch.brplayer.cc/m3u8/10/c3ad4331d5fac2ce23e520b0cc0fcb5e/master.txt?s=1&id=31609&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/dUHZRSD38BV5y0SSlpdRMfIxYHm.jpg" group-title="NOSSOS FILMES",O Enviado Do Mal - 2018 - Terror
+https://watch.brplayer.cc/m3u8/10/4f2bed48f31aa4f70b89c5e87a60e3e9/master.txt?s=1&id=31608&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ouBQfMvTf3pv6hwdYqB2OSuH7d.jpg" group-title="NOSSOS FILMES",Enclausurados - 2023 - Terror - Suspense
+https://watch.brplayer.cc/m3u8/10/a71f9f47d27e10623154025319152a82/master.txt?s=1&id=31607&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/hlIXhMYMjxhppv2EagLNXXey5H5.jpg" group-title="NOSSOS FILMES",#Sem_Filtro - Noite Sangrenta - 2022 - Terror - Suspense
+https://watch.brplayer.cc/m3u8/10/4d5392d91f16d558eef803211e81f4f2/master.txt?s=1&id=31010&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wKZW3o3QwpC5sQMrd9lJDAhEKcU.jpg" group-title="NOSSOS FILMES",A Outra Face de Dorian Gray - 2023 - Terror - Drama - Romance
+https://watch.brplayer.cc/m3u8/10/0972350bc45d5d235a2e01d7a1a5b43c/master.txt?s=1&id=31008&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fpSZqVXPV4aWxZB0DfGEhvhbiJn.jpg" group-title="NOSSOS FILMES",Marcas do Passado - 2022 - Drama - Romance
+https://watch.brplayer.cc/m3u8/10/27c8efa32c0738c9d83b37d1882d97ea/master.txt?s=1&id=31009&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/vSYt5gzGwC1ZoRW5Ppegt4HGeEx.jpg" group-title="NOSSOS FILMES",Mantis - 2025 - Ação - Suspense
 https://watch.brplayer.cc/m3u8/10/2cd019e887a1ef10c8c8b3ccd92f2f9b/master.txt?s=1&id=31936&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/bLqPpqNoKbNbXysIeft1tLIl6KB.jpg" group-title="NOSSOS FILMES",French Lover - 2025 - Comédia Romantica
