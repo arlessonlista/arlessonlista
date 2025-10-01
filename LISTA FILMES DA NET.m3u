@@ -1,5 +1,9 @@
 #EXTM3U 
 ###########NOSSOS FILMES####################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/3p4lA8bzyUZvjHcI1qWmasgbEo8.jpg" group-title="NOSSOS FILMES",Wicked - 2024 - Drama - Romance
+https://watch.brplayer.cc/m3u8/10/3ad1108c03d602923d4b3384dbb26e20/master.txt?s=1&id=23571&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yKQjrwgEkPOGel3JKT2neJzu0jh.jpg" group-title="NOSSOS FILMES",Missão: Impossível - O Acerto Final - 2024 - Drama - Romance
+https://watch.brplayer.cc/m3u8/10/00649cd10c9934e5bb72fe5beaf0f283/master.txt?s=1&id=29125&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wq2LfaMr486SZoBOmQiVtgr77XE.jpg" group-title="NOSSOS FILMES",Mesa Maldita - 2023 - Comedia - Drama - Terror
 https://watch.brplayer.cc/m3u8/10/c3ad4331d5fac2ce23e520b0cc0fcb5e/master.txt?s=1&id=31609&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/dUHZRSD38BV5y0SSlpdRMfIxYHm.jpg" group-title="NOSSOS FILMES",O Enviado Do Mal - 2018 - Terror
