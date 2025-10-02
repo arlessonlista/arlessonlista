@@ -1,5 +1,7 @@
 #EXTM3U 
 ###########NOSSOS FILMES####################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ac/The_Conjuring.jpg/250px-The_Conjuring.jpg" group-title="NOSSOS FILMES",Invocação do Mal- 2023 - Terror
+https://hls1.goodstream.one/hls2/01/00048/dp1lfez8bl8h_n/index-v1-a2.m3u8?t=j79XJbfMKGWEhzOxkBT4zUnZ4N3lYr-0bfS_GSsM82U&s=1759417611&e=43200&v=145730077&srv=s2&i=0.3&sp=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/3p4lA8bzyUZvjHcI1qWmasgbEo8.jpg" group-title="NOSSOS FILMES",Wicked - 2024 - Drama - Romance
 https://watch.brplayer.cc/m3u8/10/3ad1108c03d602923d4b3384dbb26e20/master.txt?s=1&id=23571&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yKQjrwgEkPOGel3JKT2neJzu0jh.jpg" group-title="NOSSOS FILMES",Missão: Impossível - O Acerto Final - 2024 - Drama - Romance
