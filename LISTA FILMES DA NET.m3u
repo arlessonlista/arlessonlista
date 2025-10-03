@@ -1,5 +1,7 @@
 #EXTM3U 
 ###########LANÇAMENTOS####################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdvEClt3J8sFWxyMo0Jm7JpouEo.jpg" group-title="LANÇAMENTOS",Como Treinar o Seu Dragão - 2025 - Infantil - Aventura
+https://shre.ink/SkDd
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2peYXW6CoruehDnKJGMjl2NuaNB.jpg" group-title="LANÇAMENTOS",Uma Batalha Após A Outra - 2025 - Ação - Suspense
 https://sempra.pro/a1/out/6/11158/11158_one-battle-after-another-2025-720p-tc-dublado-pt-br-fbs.m3u8?a=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuEC2i3I2P7QIcLoUJNBwqRYO4S.jpg" group-title="LANÇAMENTOS",Jurassic World: Recomeço - 2025 - Ação - Aventura - Ficção
@@ -96,6 +98,9 @@ https://watch.brplayer.cc/m3u8/10/5e54918976bb01299a2eca9319c229d4/master.txt?s=
 https://watch.brplayer.cc/m3u8/10/ee82b11edbd4f34a1081986fb2ecf895/master.txt?s=1&id=29287&cache=1
 
 ###########FILMES AVENTURA####################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdvEClt3J8sFWxyMo0Jm7JpouEo.jpg" group-title="AVENTURA",Como Treinar o Seu Dragão - 2025 - Infantil - Aventura
+https://shre.ink/SkDd
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuEC2i3I2P7QIcLoUJNBwqRYO4S.jpg" group-title="AVENTURA",Jurassic World: Recomeço - 2025 - Ação - Aventura - Ficção
 https://llanfairpwllgwyngyll.com/cdn/hls/8ca20df98d7539345dee327c4f368503/master.txt
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeaRJ5a4SxFJSo4AHOLKpr3PEyi.jpg" group-title="AVENTURA",Esqueceram de Mim - 1990 - Aventura - Comedia
@@ -107,8 +112,9 @@ https://watch.brplayer.cc/m3u8/10/ee82b11edbd4f34a1081986fb2ecf895/master.txt?s=
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg" group-title="LANÇAMENTOS",Elio - 2025 - Animação - Aventura
 
 ###########FILMES INFANTIL####################
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg" group-title="LANÇAMENTOS",Elio - 2025 - Animação - Aventura
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdvEClt3J8sFWxyMo0Jm7JpouEo.jpg" group-title="INFANTIL",Como Treinar o Seu Dragão - 2025 - Infantil - Aventura
+https://shre.ink/SkDd
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg" group-title="IMFANTIL",Elio - 2025 - Animação - Aventura
 
 ###########FILMES COMÉDIA####################
 
