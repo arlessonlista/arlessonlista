@@ -1,5 +1,9 @@
 #EXTM3U 
 ###########LANÇAMENTOS####################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuEC2i3I2P7QIcLoUJNBwqRYO4S.jpg" group-title="LANÇAMENTOS",Jurassic World: Recomeço - 2025 - Ação - Aventura - Ficção
+https://llanfairpwllgwyngyll.com/cdn/hls/8ca20df98d7539345dee327c4f368503/master.txt
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg" group-title="LANÇAMENTOS",F1 – O Filme - 2025 - Ação - Drama
+https://llanfairpwllgwyngyll.com/cdn/hls/8ca20df98d7539345dee327c4f368503/master.txt
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1BtLQexlJeqR73S5ue4uuIdhZc.jpg" group-title="LANÇAMENTOS",Os Estranhos: Capítulo 2 - 2025 - Terror - Suspense
 https://sempra.pro/a1/out/6/11159/11159_the-strangers-chapter-2-2025-720p-tc-dublado-pt-br-farmskins.m3u8?a=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/vSYt5gzGwC1ZoRW5Ppegt4HGeEx.jpg" group-title="LANÇAMENTOS",Mantis - 2025 - Ação - Suspense
@@ -42,7 +46,10 @@ https://watch.brplayer.cc/m3u8/10/6a6a73c9c5eecb746b0ab4c888939818/master.txt?s=
 https://watch.brplayer.cc/m3u8/10/2c4a5c8ae91636f617d5a2e1b08ef868/master.txt?s=1&id=30787&cache=1
 
 ###########FILMES AÇÃO####################
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuEC2i3I2P7QIcLoUJNBwqRYO4S.jpg" group-title="AÇÃO",Jurassic World: Recomeço - 2025 - Ação - Aventura - Ficção
+https://llanfairpwllgwyngyll.com/cdn/hls/8ca20df98d7539345dee327c4f368503/master.txt
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg" group-title="AÇÃO",F1 – O Filme - 2025 - Ação - Drama
+https://llanfairpwllgwyngyll.com/cdn/hls/8ca20df98d7539345dee327c4f368503/master.txt
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/6ObRyIQHJAY2X575hLVgKsnNlar.jpg" group-title="AÇÃO",Anônimo 2 - 2025 - Ação - Suspense
 https://watch.brplayer.cc/m3u8/10/28906041af66e9058de9fde01d54540d/master.txt?s=1&id=31380&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/kn00Rt1ImUN6D1bpciPX8qtnHH3.jpg" group-title="AÇÃO",WWE Wrestlepalooza - 2025 - Ação
@@ -85,7 +92,8 @@ https://watch.brplayer.cc/m3u8/10/5e54918976bb01299a2eca9319c229d4/master.txt?s=
 https://watch.brplayer.cc/m3u8/10/ee82b11edbd4f34a1081986fb2ecf895/master.txt?s=1&id=29287&cache=1
 
 ###########FILMES AVENTURA####################
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuEC2i3I2P7QIcLoUJNBwqRYO4S.jpg" group-title="AVENTURA",Jurassic World: Recomeço - 2025 - Ação - Aventura - Ficção
+https://llanfairpwllgwyngyll.com/cdn/hls/8ca20df98d7539345dee327c4f368503/master.txt
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeaRJ5a4SxFJSo4AHOLKpr3PEyi.jpg" group-title="AVENTURA",Esqueceram de Mim - 1990 - Aventura - Comedia
 https://llanfairpwllgwyngyll.com/cdn/hls/9ffacdd485139f4f1b69a78db361dcfa/master.txt
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qffLHZU9mU0zqmOISnjir2oDEsR.jpg" group-title="AVENTURA",Esqueceram de Mim 2: Perdido em Nova York - 1992 - Aventura - Comedia
@@ -127,7 +135,8 @@ https://watch.brplayer.cc/m3u8/10/ac8596485fcdd6ee2d708a4a6cb24291/master.txt?s=
 https://watch.brplayer.cc/m3u8/10/b6622e4ef1a8d811316fe50fd2975faf/master.txt?s=1&id=31194&cache=1
 
 ###########FILMES DRAMA####################
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg" group-title="DRAMA",F1 – O Filme - 2025 - Ação - Drama
+https://llanfairpwllgwyngyll.com/cdn/hls/8ca20df98d7539345dee327c4f368503/master.txt
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fQv7neaPTFjBzvKkysAA6FXDIz7.jpg" group-title="DRAMA",O Ritual - 2025 - Drama - Terror - Suspense
 https://watch.brplayer.cc/m3u8/10/9dbd49ba9d0391088bde2b8090110ec8/master.txt?s=1&id=31918&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/buiy7xS3Q78ii3HWFKL2GIoMu4N.jpg" group-title="DRAMA",Shadow Force: Sentença de Morte - 2025 - Ação - Drama - Suspense
