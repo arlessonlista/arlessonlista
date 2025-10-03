@@ -1,5 +1,7 @@
 #EXTM3U 
 ###########NOSSOS FILMES####################
+#EXTINF:-1 tvg-logo="" group-title="NOSSOS FILMES",TESTE
+https://llanfairpwllgwyngyll.com/cdn/hls/f6e549ac9819b5163a5bac78be091dcc/master.txt
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ac/The_Conjuring.jpg/250px-The_Conjuring.jpg" group-title="NOSSOS FILMES",Invocação do Mal- 2025 - Terror
 https://sempra.pro/a1/out/6/10886/10886_the-conjuring-last-rites-2025-720p-tc-dublado-pt-br-fbs.m3u8?a=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/3p4lA8bzyUZvjHcI1qWmasgbEo8.jpg" group-title="NOSSOS FILMES",Wicked - 2024 - Drama - Romance
