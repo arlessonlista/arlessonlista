@@ -1,5 +1,7 @@
 #EXTM3U 
 ###########LANÇAMENTOS####################
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2peYXW6CoruehDnKJGMjl2NuaNB.jpg" group-title="LANÇAMENTOS",Uma Batalha Após A Outra - 2025 - Ação - Suspense
+https://sempra.pro/a1/out/6/11158/11158_one-battle-after-another-2025-720p-tc-dublado-pt-br-fbs.m3u8?a=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuEC2i3I2P7QIcLoUJNBwqRYO4S.jpg" group-title="LANÇAMENTOS",Jurassic World: Recomeço - 2025 - Ação - Aventura - Ficção
 https://llanfairpwllgwyngyll.com/cdn/hls/8ca20df98d7539345dee327c4f368503/master.txt
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg" group-title="LANÇAMENTOS",F1 – O Filme - 2025 - Ação - Drama
@@ -46,6 +48,8 @@ https://watch.brplayer.cc/m3u8/10/6a6a73c9c5eecb746b0ab4c888939818/master.txt?s=
 https://watch.brplayer.cc/m3u8/10/2c4a5c8ae91636f617d5a2e1b08ef868/master.txt?s=1&id=30787&cache=1
 
 ###########FILMES AÇÃO####################
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2peYXW6CoruehDnKJGMjl2NuaNB.jpg" group-title="AÇÃO",Uma Batalha Após A Outra - 2025 - Ação - Suspense
+https://sempra.pro/a1/out/6/11158/11158_one-battle-after-another-2025-720p-tc-dublado-pt-br-fbs.m3u8?a=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuEC2i3I2P7QIcLoUJNBwqRYO4S.jpg" group-title="AÇÃO",Jurassic World: Recomeço - 2025 - Ação - Aventura - Ficção
 https://llanfairpwllgwyngyll.com/cdn/hls/8ca20df98d7539345dee327c4f368503/master.txt
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg" group-title="AÇÃO",F1 – O Filme - 2025 - Ação - Drama
@@ -171,7 +175,8 @@ https://watch.brplayer.cc/m3u8/10/f40ef5fc5d2ac8911c6a5362f89a06ab/master.txt?s=
 https://watch.brplayer.cc/m3u8/10/344740a5da60a3e8839958496f4644e7/master.txt?s=1&id=31978&cache=1
 
 ###########FILMES SUSPENSE####################
-
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2peYXW6CoruehDnKJGMjl2NuaNB.jpg" group-title="SUSPENSE",Uma Batalha Após A Outra - 2025 - Ação - Suspense
+https://sempra.pro/a1/out/6/11158/11158_one-battle-after-another-2025-720p-tc-dublado-pt-br-fbs.m3u8?a=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fQv7neaPTFjBzvKkysAA6FXDIz7.jpg" group-title="SUSPENSE",O Ritual - 2025 - Drama - Terror - Suspense
 https://watch.brplayer.cc/m3u8/10/9dbd49ba9d0391088bde2b8090110ec8/master.txt?s=1&id=31918&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/6ObRyIQHJAY2X575hLVgKsnNlar.jpg" group-title="SUSPENSE",Anônimo 2 - 2025 - Ação - Suspense
