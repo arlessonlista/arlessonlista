@@ -87,10 +87,11 @@ https://watch.brplayer.cc/m3u8/26/c841b23266e204fc9271733469516275/master.txt?s=
 https://watch.brplayer.cc/m3u8/27/b5403b2d202b8fe1db69b68b2c0c5e2b/master.txt?s=1&id=30978&cache=1
 
 ###########FILMES INFANTIL####################
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62SAZfLfzhxJWUFJvfIPMw6QUpE.jpg" group-title="FILMES de INFANTIL",Divertida Mente - 2024 - Infantil
-https://sempra.pro/a1/out/old/6/673/673_3641011divertida-mente.m3u8?a=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tN4bjzZ3ePY57hpCTFk0Kc3oXAw.jpg" group-title="FILMES de INFANTIL",Turbo - 2024 - Infantil
-https://sempra.pro/a1/out/old/6/775/775_188681653turbo-2013.m3u8?a=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62SAZfLfzhxJWUFJvfIPMw6QUpE.jpg" group-title="FILMES de INFANTIL",Divertida Mente 01 - 2015 - Infantil
+https://watch.brplayer.cc/m3u8/27/038e12b8ef41273a9ed83a46a130c0a3/master.txt?s=1&id=31080&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHKNS35r4RTa9GO72vdadMLxoiV.jpg" group-title="FILMES de INFANTIL",Divertida Mente 02 - 2015 - Infantil
+https://watch.brplayer.cc/m3u8/26/761067fbba1d6ef159173bfb8109abc2/master.txt?s=1&id=28054&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg" group-title="FILMES de INFANTIL",Kung Fu Panda 4 - 2024 - Infantil
 https://sempra.pro/a1/out/6/5204/5204_kung.fu.panda.4.2024.1080p.web-dl.eac3.aac.dual.5.1.m3u8?a=1
 
