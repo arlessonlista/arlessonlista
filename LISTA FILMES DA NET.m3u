@@ -1,6 +1,8 @@
 #EXTM3U 
 ###########FILMES LANÇAMENTOS####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3epSUdF9qSWWHTBlA3mJ0w2i2Y.jpg" group-title="FILMES LANÇAMENTOS",O Telefone Preto 2  - 2025 - Terror - Suspense
+https://watch.brplayer.cc/m3u8/12/b8947a29a6bd9e6dca535159c6da37e2/master.txt?s=1&id=33185&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdvEClt3J8sFWxyMo0Jm7JpouEo.jpg" group-title="FILMES LANÇAMENTOS",Como Treinar o Seu Dragão - 2025 - Infantil - Aventura
 https://watch.brplayer.cc/m3u8/26/123f06c5f8bcd6e2bd7cae3eefae4abb/master.txt?s=1&id=27732&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2peYXW6CoruehDnKJGMjl2NuaNB.jpg" group-title="FILMES LANÇAMENTOS",Uma Batalha Após A Outra - 2025 - Ação - Suspense
@@ -195,6 +197,8 @@ https://watch.brplayer.cc/m3u8/27/e72aceb00e6097c55a790d4e7ae23a9c/master.txt?s=
 
 ###########FILMES de SUSPENSE####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3epSUdF9qSWWHTBlA3mJ0w2i2Y.jpg" group-title="FILMES de SUSPENSE",O Telefone Preto 2  - 2025 
+https://watch.brplayer.cc/m3u8/12/b8947a29a6bd9e6dca535159c6da37e2/master.txt?s=1&id=33185&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7936Tglq1tM3eMXpssyrn0CxjeD.jpg" group-title="FILMES de SUSPENSE",Silent Hill: Revelação - 2012
 https://watch.brplayer.cc/m3u8/26/9c87b4fa747d4b5675c82f561eb9cd4c/master.txt?s=1&id=31281&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOAa9olK9bhFkZYPvixacglbo3N.jpg" group-title="FILMES de SUSPENSE",Breakdown - Implacável Perseguição - 1997
@@ -224,6 +228,8 @@ https://watch.brplayer.cc/m3u8/27/fca68f4dff3920d202186d63f9048dfa/master.txt?s=
 
 ###########FILMES de TERROR####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3epSUdF9qSWWHTBlA3mJ0w2i2Y.jpg" group-title="FILMES de TERROR",O Telefone Preto 2  - 2025 
+https://watch.brplayer.cc/m3u8/12/b8947a29a6bd9e6dca535159c6da37e2/master.txt?s=1&id=33185&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7936Tglq1tM3eMXpssyrn0CxjeD.jpg" group-title="FILMES de TERROR",Silent Hill: Revelação - 2012
 https://watch.brplayer.cc/m3u8/26/9c87b4fa747d4b5675c82f561eb9cd4c/master.txt?s=1&id=31281&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDTJNykXCsFR0fI2RlUFqKivrkp.jpg" group-title="FILMES de TERROR",Inatividade Paranormal 2- 2014
