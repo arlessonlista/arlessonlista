@@ -1,11 +1,6 @@
 #EXTM3U 
 ###########CONTATOS####################
-
-#EXTINF:-1 tvg-logo="" group-title="CONTATOS",📺 TV e Filmes 
-#EXTINF:-1 tvg-logo="" group-title="CONTATOS",🏽‍💻 Editor: Arlesson | Rj | Brasil 🇧🇷 
-#EXTINF:-1 tvg-logo="" group-title="CONTATOS",📧 ContatoS:
-#EXTINF:-1 tvg-logo="" group-title="CONTATOS",💰 Pix:
-
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kttzRdnEya8/YEZxz-HLQtI/AAAAAAAAAG4/VLGkb_ISsmEr60QvWJNHSVKNuYrfWflZQCLcBGAsYHQ/w1200-h630-p-k-no-nu/contatos.jpg" group-title="CONTATOS",📺 TV e Filmes 
 ###########FILMES LANÇAMENTOS####################
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3epSUdF9qSWWHTBlA3mJ0w2i2Y.jpg" group-title="FILMES LANÇAMENTOS",O Telefone Preto 2  - 2025 - Terror - Suspense
