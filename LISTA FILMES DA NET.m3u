@@ -1,9 +1,11 @@
 #EXTM3U 
-## 📺 TV e Filmes
+## 📺 TV e Filme
 ## 👩🏽‍💻 Editor: Arlesson | Rio de Janeiro | Brasil 🇧🇷
-## 📧 Contato e 💰 Pix para doações:
+## 📧 Contatos e 💰 Pix para doações:
 ########### FILMES ONLINE 🎬  ####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuIZnkO5q1gonbIlGb8w3uBsanM.jpg" group-title="FILMES ONLINE 🎬",Sinbad - A Lenda dos Sete Mares - 2013
+https://watch.brplayer.cc/m3u8/26/72d7e3b85700ddfd5f3f010d5507e13e/master.txt?s=1&id=32162&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLiI13YstciHqiuHCkD786wpIYn.jpg" group-title="FILMES ONLINE 🎬",A Origem dos Guardiões - 2012
 https://watch.brplayer.cc/m3u8/26/6512943977de3daab2f86f70dff08061/master.txt?s=1&id=31619&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xw2Nl7QykRxZEQF07tI5arpwbO.jpg" group-title="FILMES ONLINE 🎬",Os Pestes - 2025
