@@ -6,9 +6,13 @@
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9qC2hL61IcVYEGyRonx6qakJWw.jpg" group-title="NETFLIX",O Troll da Montanha - 2022
 https://watch.brplayer.cc/m3u8/26/6dfbdd2796f306866bd7fa91b79f2339/master.txt?s=1&id=31335&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvpAVmHgIXK7Z9pOmxMdUPsN3GO.jpg" group-title="NETFLIX",Ataque 13 - 2025 
+https://watch.brplayer.cc/m3u8/26/f62cc9a5c2e8242b15ec3cd88f4e4afe/master.txt?s=1&id=33386&cache=1
 
 ########### FILMES 🎬 ####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9qC2hL61IcVYEGyRonx6qakJWw.jpg" group-title="FILMES 🎬",O Troll da Montanha - 2022
+https://watch.brplayer.cc/m3u8/26/6dfbdd2796f306866bd7fa91b79f2339/master.txt?s=1&id=31335&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chpWmskl3aKm1aTZqUHRCtviwPy.jpgg" group-title="FILMES 🎬",TRON: Ares - 2025
 https://watch.brplayer.cc/m3u8/12/60b7f5df725c5166ab342f2eeb9244ad/master.txt?s=1&id=33596&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxaW1iVGtw3tovCSkPlIL9PhvmA.jpg" group-title="FILMES 🎬",A Longa Marcha: Caminhe ou Morra - 2025
