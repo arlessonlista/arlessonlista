@@ -5,6 +5,20 @@
 
 ########### FILMES DE CINEMA 📽️ ########### 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCivukZVNGjvj7VGwsPMFFHq0Zx.jpg" group-title="FILMES DE CINEMA 📽️",#SalveRosa - 2025
+https://watch.brplayer.cc/m3u8/12/ee1d01930813d9f10858db96fd9d58b1/master.txt?s=1&id=33589&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZhnVSuIPj0u1UBsrgkihYznbky.jpg" group-title="FILMES DE CINEMA 📽️",Caçadores do Fim do Mundo - 2025
+https://watch.brplayer.cc/m3u8/26/5bb8eb8417b7f8beacc2978bc3f1c002/master.txt?s=1&id=33510&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMlqPrEtericgbnNO4PW2D7w4Cj.jpg" group-title="FILMES DE CINEMA 📽️",Altered  - 2025 
+https://watch.brplayer.cc/m3u8/12/0a38436397f65f4dba1b4393d81e9159/master.txt?s=1&id=33292&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8s9WG1GOv8e17rmEDCTNQx8nms.jpg" group-title="FILMES DE CINEMA 📽️",O Bom Bandido - 2025 
+https://watch.brplayer.cc/m3u8/12/007cab554f24f1d6f1decc14e1ccb05e/master.txt?s=1&id=33186&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg" group-title="FILMES DE CINEMA 📽️",Casa de Dinamite - 2025
+https://watch.brplayer.cc/m3u8/26/331a046af78255a2d0642af437bc9d22/master.txt?s=1&id=33571&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3epSUdF9qSWWHTBlA3mJ0w2i2Y.jpg" group-title="FILMES DE CINEMA 📽️",O Telefone Preto 2  - 2025 
+https://watch.brplayer.cc/m3u8/12/b8947a29a6bd9e6dca535159c6da37e2/master.txt?s=1&id=33185&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGo5ti82LlydAZrvcsaj31iPuEI.jpg" group-title="FILMES DE CINEMA 📽️",Lago dos Ossos - 2025
+https://watch.brplayer.cc/m3u8/12/8b16ef0e8dc41ac2f4d58e0a45621922/master.txt?s=1&id=32508&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZbsbX1y4N89zEOkb4P3FD1YUB9.jpg" group-title="FILMES DE CINEMA 📽️",A Própria Carne - 2025
 https://watch.brplayer.cc/m3u8/12/2f60d946251d2dfd719925f3fa1fed01/master.txt?s=1&id=33835&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jl200vudAx2hhpg3mxZy1KCJgeK.jpg" group-title="FILMES DE CINEMA 📽️",Terror em Shelby Oaks - 2025
@@ -20,6 +34,14 @@ https://watch.brplayer.cc/m3u8/12/60b7f5df725c5166ab342f2eeb9244ad/master.txt?s=
 
 ########### FILMES 🎬 ####################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVbNDmPrbnfgINfEoAMx41N7IfH.jpg" group-title="FILMES 🎬",Trolls - 2016
+https://watch.brplayer.cc/m3u8/26/3484575740e7d74362f6a1ab0ac89a50/master.txt?s=1&id=31664&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTFrCDCc1pMJAwmUhPjtTHMnF6w.jpg" group-title="FILMES 🎬",GOAT - 2025
+https://watch.brplayer.cc/m3u8/26/c0dba5809c620f70942856ad09b144d0/master.txt?s=1&id=33859&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjhddvSrpNRAhxb3G2gJJ7DehO0.jpg" group-title="FILMES 🎬",O Frio da Morte - 2025
+https://watch.brplayer.cc/m3u8/12/51cb4d36ac390e5bd8d30919a78e336e/master.txt?s=1&id=33683&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg" group-title="FILMES 🎬",Frankenstein - 2025
+https://watch.brplayer.cc/m3u8/12/ac5b6ea5394bc6a1a9a71e0552236c72/master.txt?s=1&id=33737&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdbxjEDKeAVSdlcLsFcdGSSO0Yc.jpg" group-title="FILMES 🎬",O Especialista - 1994
 https://watch.brplayer.cc/m3u8/26/b3b0b34ebdc9b8ba6bd98224365ed43d/master.txt?s=1&id=32137&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gr2qPWiiZWOoCF6DOqmpSZGOYL8.jpg" group-title="FILMES 🎬",O Despertar de um Homem - 1993
@@ -180,8 +202,6 @@ https://watch.brplayer.cc/m3u8/26/6dfbdd2796f306866bd7fa91b79f2339/master.txt?s=
 https://watch.brplayer.cc/m3u8/26/fa4dbc17e5005a96e83003e98cea1340/master.txt?s=1&id=33669&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nj4W6GvUDoHEKrh4E9599QbrDl.jpg" group-title="FILMES 🎬",Little Jaffna - 2025
 https://watch.brplayer.cc/m3u8/26/ef152a79c2f6111858309f64e2d68ebd/master.txt?s=1&id=33610&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCivukZVNGjvj7VGwsPMFFHq0Zx.jpg" group-title="FILMES 🎬",#SalveRosa - 2025
-https://watch.brplayer.cc/m3u8/12/ee1d01930813d9f10858db96fd9d58b1/master.txt?s=1&id=33589&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRpGcAYC7cm1QnInz8P3xHvm7cV.jpg" group-title="FILMES 🎬",Mr. K - 2025
 https://watch.brplayer.cc/m3u8/26/41220f414a6e40d921767181f83ae321/master.txt?s=1&id=33572&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7JESN9l1MLYiM7AW42fCoTJ5A9.jpg" group-title="FILMES 🎬",Filhos do Ecstasy - 2025
@@ -250,10 +270,6 @@ https://watch.brplayer.cc/m3u8/26/8b317894aac9e99eae82d7add674a995/master.txt?s=
 https://watch.brplayer.cc/m3u8/26/8557f7303f1355575b6e95d411c9cead/master.txt?s=1&id=30138&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45OuEJ4leKmQl9oQCEcQQTBDFwl.jpg" group-title="FILMES 🎬",O Elixir - 2025
 https://watch.brplayer.cc/m3u8/27/684c02747b08547490f9fca80f2e5cf1/master.txt?s=1&id=33480&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGo5ti82LlydAZrvcsaj31iPuEI.jpg" group-title="FILMES 🎬",Lago dos Ossos - 2025
-https://watch.brplayer.cc/m3u8/12/8b16ef0e8dc41ac2f4d58e0a45621922/master.txt?s=1&id=32508&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZhnVSuIPj0u1UBsrgkihYznbky.jpg" group-title="FILMES 🎬",Caçadores do Fim do Mundo - 2025
-https://watch.brplayer.cc/m3u8/26/5bb8eb8417b7f8beacc2978bc3f1c002/master.txt?s=1&id=33510&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yr3VU1spstT79VIddR08JjJ7r0Z.jpg" group-title="FILMES 🎬",Downton Abbey: O Grande Final - 2025
 https://watch.brplayer.cc/m3u8/26/975d9f0ff98ed5bc3f6c862609372b59/master.txt?s=1&id=33562&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYBNoKmFID4gSKcnij1JSIdOsJ3.jpg" group-title="FILMES 🎬",Rosario - 2025
@@ -296,8 +312,6 @@ https://watch.brplayer.cc/m3u8/27/291ed4a3e93cdca112eef1dd0ca26bed/master.txt?s=
 https://watch.brplayer.cc/m3u8/26/56034e3017a60728e3f1ce4ba40aeeeb/master.txt?s=1&id=33375&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvpAVmHgIXK7Z9pOmxMdUPsN3GO.jpg" group-title="FILMES 🎬",Ataque 13 - 2025 
 https://watch.brplayer.cc/m3u8/26/f62cc9a5c2e8242b15ec3cd88f4e4afe/master.txt?s=1&id=33386&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMlqPrEtericgbnNO4PW2D7w4Cj.jpg" group-title="FILMES 🎬",Altered  - 2025 
-https://watch.brplayer.cc/m3u8/12/0a38436397f65f4dba1b4393d81e9159/master.txt?s=1&id=33292&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3epSUdF9qSWWHTBlA3mJ0w2i2Y.jpg" group-title="FILMES 🎬",O Telefone Preto 2  - 2025 
 https://watch.brplayer.cc/m3u8/12/b8947a29a6bd9e6dca535159c6da37e2/master.txt?s=1&id=33185&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdvEClt3J8sFWxyMo0Jm7JpouEo.jpg" group-title="FILMES 🎬",Como Treinar o Seu Dragão - 2025 
@@ -390,8 +404,6 @@ https://watch.brplayer.cc/m3u8/26/229b80a4b334bbda34ec0d063f11c699/master.txt?s=
 https://watch.brplayer.cc/m3u8/26/e77d89a5cfa17ff55d0b928bf21b2d0f/master.txt?s=1&id=32493&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6kJSvM2tT542uKcNeRN0TJYsXc.jpg" group-title="FILMES 🎬",O Mundo Perdido - Jurassic Park - 1997
 https://watch.brplayer.cc/m3u8/26/f2bd2dc4768de1aadf66b36c31e29e7c/master.txt?s=1&id=31630&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg" group-title="FILMES 🎬",Casa de Dinamite - 2025
-https://watch.brplayer.cc/m3u8/26/331a046af78255a2d0642af437bc9d22/master.txt?s=1&id=33571&cache=1
 v#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kewQzQNurACwXZG1DY1S39nf55e.jpg" group-title="FILMES 🎬",Joe Sujo - 2001
 https://watch.brplayer.cc/m3u8/26/4ebcff140cef36926eddf245293c8f5b/master.txt?s=1&id=31645&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfZ1p8nNavu5sbLcyrB1FgOYK23.jpg" group-title="FILMES 🎬",Lanterna Verde - 2011
@@ -464,8 +476,6 @@ https://watch.brplayer.cc/m3u8/26/a3577dabfbc7a0e6685b1a3b68a0ac84/master.txt?s=
 https://watch.brplayer.cc/m3u8/10/83207fa06b72203b37ffc59ed7c41a30/master.txt?s=1&id=31197&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/nXqZvvgIEbZM3gQBa4jLcNnLWmx.jpg" group-title="FILMES 🎬",Como Descartar um Corpo - 2022
 https://watch.brplayer.cc/m3u8/27/e72aceb00e6097c55a790d4e7ae23a9c/master.txt?s=1&id=31044&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3epSUdF9qSWWHTBlA3mJ0w2i2Y.jpg" group-title="FILMES 🎬",O Telefone Preto 2  - 2025 
-https://watch.brplayer.cc/m3u8/12/b8947a29a6bd9e6dca535159c6da37e2/master.txt?s=1&id=33185&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7936Tglq1tM3eMXpssyrn0CxjeD.jpg" group-title="FILMES 🎬",Silent Hill: Revelação - 2012
 https://watch.brplayer.cc/m3u8/26/9c87b4fa747d4b5675c82f561eb9cd4c/master.txt?s=1&id=31281&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOAa9olK9bhFkZYPvixacglbo3N.jpg" group-title="FILMES 🎬",Breakdown - Implacável Perseguição - 1997
