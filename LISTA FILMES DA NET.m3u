@@ -6,6 +6,14 @@
 
 ########### FILMES DE CINEMA 📽️ ########### 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h90ccrZZzwfSsOgvHTbB76MLw4b.jpg" group-title="FILMES 🎬",Quando o Céu se Engana - 2025
+https://watch.brplayer.cc/m3u8/12/8a010f0312373c02e0d15cdfc56ea416/master.txt?s=1&id=34265&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AYPGnLTmU6zDtMMAWqeUkCi7Tw.jpg" group-title="FILMES 🎬",Predador: Terras Selvagens - 2025
+https://watch.brplayer.cc/m3u8/12/b89c07b45920d06987ec53f9d7f7bb70/master.txt?s=1&id=34266&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUXz9LHeU82S3n2pJhiEifOOei5.jpg" group-title="FILMES 🎬",American Sweatshop - 2025
+https://watch.brplayer.cc/m3u8/12/7b72563f6c1a6ea5bdaae6d3ab92cc10/master.txt?s=1&id=30959&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytdK03kYesKHtBHJvlCQjLNtMre.jpg" group-title="FILMES 🎬",O Rei da Feira - 2025
+https://watch.brplayer.cc/m3u8/12/0fe814b34f8735c80c4c0933e4e910f7/master.txt?s=1&id=30482&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCVcdb5oxDizqFLz0F7TE60NoC9.jpg" group-title="FILMES 🎬",Balto - 1995
 https://watch.brplayer.cc/m3u8/26/b8a8ace231fae55cbad834ad5b66e3d6/master.txt?s=1&id=31325&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iluZwBX2vg3CmdLP25UNccpnFF.jpg" group-title="FILMES 🎬",As Ruínas - 2008
@@ -463,8 +471,6 @@ https://watch.brplayer.cc/m3u8/26/f62cc9a5c2e8242b15ec3cd88f4e4afe/master.txt?s=
 https://watch.brplayer.cc/m3u8/12/b8947a29a6bd9e6dca535159c6da37e2/master.txt?s=1&id=33185&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdvEClt3J8sFWxyMo0Jm7JpouEo.jpg" group-title="FILMES 🎬",Como Treinar o Seu Dragão - 2025 
 https://watch.brplayer.cc/m3u8/26/123f06c5f8bcd6e2bd7cae3eefae4abb/master.txt?s=1&id=27732&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2peYXW6CoruehDnKJGMjl2NuaNB.jpg" group-title="FILMES 🎬",Uma Batalha Após A Outra - 2025
-https://watch.brplayer.cc/m3u8/12/83cbc5e9ad9b537435036c2cdc4b0074/master.txt?s=1&id=31933&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuEC2i3I2P7QIcLoUJNBwqRYO4S.jpg" group-title="FILMES 🎬",Jurassic World: Recomeço - 2025
 https://watch.brplayer.cc/m3u8/26/c841b23266e204fc9271733469516275/master.txt?s=1&id=28758&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/vSYt5gzGwC1ZoRW5Ppegt4HGeEx.jpg" group-title="FILMES 🎬",Mantis - 2025 
@@ -621,8 +627,6 @@ https://watch.brplayer.cc/m3u8/26/9c87b4fa747d4b5675c82f561eb9cd4c/master.txt?s=
 https://watch.brplayer.cc/m3u8/26/493c8b3821e768713a4d1c5b1e7f5ad4/master.txt?s=1&id=31624&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70c3R1p2OL0vtplOSNUOjWk9NwC.jpg" group-title="FILMES 🎬",Breakdown - Sob a Lua Cheia - 2024
 https://watch.brplayer.cc/m3u8/26/ea991922e5d2d407b59be72152863092/master.txt?s=1&id=32413&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2peYXW6CoruehDnKJGMjl2NuaNB.jpg" group-title="FILMES 🎬",Uma Batalha Após A Outra - 2025
-https://watch.brplayer.cc/m3u8/12/83cbc5e9ad9b537435036c2cdc4b0074/master.txt?s=1&id=31933&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fQv7neaPTFjBzvKkysAA6FXDIz7.jpg" group-title="FILMES 🎬",O Ritual - 2025
 https://watch.brplayer.cc/m3u8/26/b91c0e214d2c012f44bfab098fb99a1c/master.txt?s=1&id=31929&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/6ObRyIQHJAY2X575hLVgKsnNlar.jpg" group-title="FILMES 🎬",Anônimo 2 - 2025
